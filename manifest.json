@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Motivational Quote Generator",
+    "version": "1.0",
+    "description": "Get random motivational quotes in a click!",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    },
+    "permissions": [],
+    "host_permissions": [
+      "https://zenquotes.io/*"
+    ]
+  }
+  
