@@ -11,5 +11,5 @@ async function getQuote() {
 
 document.getElementById("new-quote").addEventListener("click", getQuote);
 
-// Load a quote when the popup opens
+
 getQuote();
